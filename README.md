@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Laravel;Angular)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Omar Abuelkhier! ;Angular)](https://git.io/typing-svg)
 
 <!--
 **omarabuelkhier/omarabuelkhier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
